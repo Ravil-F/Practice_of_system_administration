@@ -35,3 +35,16 @@
 <div align="center">
  <img src="./img/grep/1.JPG" alt="grep <reg> < <file>">
 </div>
+
+
+## && or || - аналогия if else.
+
+- && (логическое И)- если истино, то выполнится действие,которое указали после &&
+<div align="center">
+ <img src="./img/IfElse/1.JPG" alt="&&">
+</div>
+
+- || (логическое ИЛИ)- если лож, то выполнится действие,которое указали после ||
+<div align="center">
+ <img src="./img/IfElse/2.JPG" alt="||">
+</div>
