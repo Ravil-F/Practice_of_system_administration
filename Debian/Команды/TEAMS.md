@@ -13,3 +13,18 @@
 <div align="center">
  <img src="./img/1.JPG" alt="history">
 </div>
+
+- file <name>- это команда, которая определяет тип файла по его содержимому, а не по расширению.
+<div align="center">
+    <img src="./img/2.JPG" alt="file">
+</div>
+
+- ls <name>[reg] - вывод файлов, каталов начиная с <name>, а потом указанные символы.Также можно применить * или ?.
+<div align="center">
+    <img src="./img/3.JPG" alt="ls_reg">
+</div>
+
+- touch <flag> <name> - создание файлов, а также изменение некоторых мета-данных, например даты и время создания файла.
+<div align="center">
+    <img src="./img/3.JPG" alt="touch">
+</div>
